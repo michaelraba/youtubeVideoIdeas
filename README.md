@@ -20,7 +20,15 @@
 Just create. Good ideas are simple and self-propel.
 
 
-### Step 4: Editing it all together Software
+### Step 4: Editing it all together with Effective Software
+
+-   Unfortunately there is no good video editing software for linux. The best bet here seems to be Davinci Resolve. The linux version of this was lacking capability to do basic functions like adding a voiceover track. Such a missing basic functionality means this is not a good option.
+    
+    Besides this, no other linux video editing software stands out as a possibility.
+    
+    **Hackintosh Idea** It is possible to install the mac OS onto certain computers, eg [OS X Cataline on this Dell](https://www.reddit.com/r/hackintosh/comments/f2t7wb/catalina_on_my_dell_precision_7820_with_opencore/)
+    
+    ![img](images/readme/screenshot2022-05-22_13-40-29_.png)
 
 
 # Ancillary
