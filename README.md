@@ -12,6 +12,8 @@
 
 ### Step 2: Writing a script: Essential Parts and Content
 
+-   **Content is king.** In my opinion, this is the most important step. Scripts should be mostly just outlines and your &rsquo;message&rsquo; should be authentic/internalized enough so the material flows outward and it takes flight
+
 
 ### Step 3: Approach: Letting go of perfection
 
