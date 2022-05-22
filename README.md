@@ -1,6 +1,6 @@
 
 
-# Approach to making Compelling videos
+# Approach to Making Compelling Videos !
 
 
 ### Step 1: (Very) Minimalistic Equiptment Requirements

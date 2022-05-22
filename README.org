@@ -1,5 +1,5 @@
 #+options: toc:nil
-* Approach to making Compelling videos
+* Approach to Making Compelling Videos !
 *** Step 1: (Very) Minimalistic Equiptment Requirements
 - Lighting: softbox
 - Microphone: lav mic etc
