@@ -15,7 +15,7 @@
 -   **Content is king.** In my opinion, this is the most important step. Scripts should be mostly just outlines and the videos *messege*  or story should be authentic/internalized enough so the material flows outward and it takes flight
 
 
-### Step 3: Approach: Letting go of perfection
+### Step 3: Approach and Mindset &#x2013; Letting go of perfection
 
 Just create. Good ideas are simple and self-propel.
 
