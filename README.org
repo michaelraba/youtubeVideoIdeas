@@ -16,7 +16,9 @@ Just create. Good ideas are simple and self-propel.
    [[file:images/readme/screenshot2022-05-22_13-40-29_.png]]
 
 + *Video Editing Skills* -- List.
-1. *learning from others*. While watching a top youtube creator, it should be useful to script out what they are saying, and how that dialogue meshes the camera action. By putting that in a two-column list, one can see the action-dialogue coordination, like in the table below. How those two elements interact can add to the video's cohesiveness. They can either cohere or clash. I think really effective youtubers learn each other frequently this way -- we have instinct for what's good, then getting down to bare bones as to why and how the creator achieved that.
+1. *learning from others*. While watching a top youtube creator, it should be useful to script out what they are saying, and how that dialogue meshes the camera action. By putting that in a two-column list, one can see the action-dialogue coordination, like in the table below. How those two elements interact can add to the video's cohesiveness. They can either cohere or clash.
+
+  I think really effective youtubers learn each other frequently this way -- we have instinct for what's good, then getting down to bare bones as to why and how the creator achieved that.
 
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
    | Action                                                         | Dialogue                                                                          |
