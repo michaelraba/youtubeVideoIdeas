@@ -30,12 +30,3 @@ Just create. Good ideas are simple and self-propel.
     
     ![img](images/readme/screenshot2022-05-22_13-40-29_.png)
 
-
-# Ancillary
-
-
-### Idea to build Hackintosh so mac software can be used &#x2014; or just use windows?
-
-
-### find out of video card is compatable
-
