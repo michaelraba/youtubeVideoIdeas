@@ -27,6 +27,68 @@ Just create. Good ideas are simple and self-propel.
     -   **Hackintosh Idea.** Buying a beefy mac with video editing specs is prohibitivly expensive, so I would like to explore, is possible to install the mac OS onto certain computers? eg [OS X Cataline on this Dell](https://www.reddit.com/r/hackintosh/comments/f2t7wb/catalina_on_my_dell_precision_7820_with_opencore/)
     
     ![img](images/readme/screenshot2022-05-22_13-40-29_.png)
+
+-   **Video Editing Skills** &#x2013; List.
+-   **learning from others**. While watching a top youtube creator, it should be useful to script out what they are saying, and the camera action:
     
-    -   **Video Editing Skills** &#x2013; List.
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Action</th>
+    <th scope="col" class="org-left">Dialogue</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Fade in screen recording from Black</td>
+    <td class="org-left">Hello and welcome. Today we will be covering</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">some useful skill in emacs-calc Mode</td>
+    </tr>
+    </tbody>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Show a title slide with tutorial agenda items in a bullet list</td>
+    <td class="org-left">In this Video we will be showing basics of reverse polish calculator notation</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">which is tricky at first  , cover basic ways to access calc&rsquo;s</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">most useful functions, graph a function, and last show how to integrate emacscalc</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">with other area of emacs to increase workflow, such as with org-mode.</td>
+    </tr>
+    </tbody>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Fade talking head</td>
+    <td class="org-left">But thats not all !</td>
+    </tr>
+    </tbody>
+    </table>
 
