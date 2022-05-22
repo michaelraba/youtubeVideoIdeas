@@ -33,40 +33,42 @@ Just create. Good ideas are simple and self-propel.
     
     I think really effective youtubers learn each other frequently this way &#x2013; we have instinct for what&rsquo;s good, then getting down to bare bones as to why and how the creator achieved that.
     
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">Action</th>
-    <th scope="col" class="org-left">Dialogue</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">Fade in screen recording from Black</td>
-    <td class="org-left">Hello and welcome. Today we will be covering some useful skill in emacs-calc Mode</td>
-    </tr>
-    </tbody>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">Show a title slide with tutorial agenda items in a bullet list</td>
-    <td class="org-left">In this Video we will be showing basics of reverse polish calculator notation  which is tricky at first  , cover basic ways to access calc&rsquo;s most useful functions, graph a function, and last show how to integrate emacs-calc with other area of emacs to increase workflow, such as with org-mode.</td>
-    </tr>
-    </tbody>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">Fade talking head</td>
-    <td class="org-left">But thats not all !</td>
-    </tr>
-    </tbody>
-    </table>
+    -   Something like this:
+        
+        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+        
+        
+        <colgroup>
+        <col  class="org-left" />
+        
+        <col  class="org-left" />
+        </colgroup>
+        <thead>
+        <tr>
+        <th scope="col" class="org-left">Action</th>
+        <th scope="col" class="org-left">Dialogue</th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <tr>
+        <td class="org-left">Fade in screen recording from Black</td>
+        <td class="org-left">Hello and welcome. Today we will be covering some useful skill in emacs-calc Mode</td>
+        </tr>
+        </tbody>
+        
+        <tbody>
+        <tr>
+        <td class="org-left">Show a title slide with tutorial agenda items in a bullet list</td>
+        <td class="org-left">In this Video we will be showing basics of reverse polish calculator notation  which is tricky at first  , cover basic ways to access calc&rsquo;s most useful functions, graph a function, and last show how to integrate emacs-calc with other area of emacs to increase workflow, such as with org-mode.</td>
+        </tr>
+        </tbody>
+        
+        <tbody>
+        <tr>
+        <td class="org-left">Fade talking head</td>
+        <td class="org-left">But thats not all !</td>
+        </tr>
+        </tbody>
+        </table>
 
