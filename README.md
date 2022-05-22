@@ -29,7 +29,7 @@ Just create. Good ideas are simple and self-propel.
     ![img](images/readme/screenshot2022-05-22_13-40-29_.png)
 
 -   **Video Editing Skills** &#x2013; List.
--   **learning from others**. While watching a top youtube creator, it should be useful to script out what they are saying, and the camera action. By putting that in a two-column list, one can see the action-dialogue coordination, like in the table below. How those two elements interact can add to the video&rsquo;s cohesiveness. I think really effective youtubers learn each other frequently this way.
+-   **learning from others**. While watching a top youtube creator, it should be useful to script out what they are saying, and how that dialogue meshes the camera action. By putting that in a two-column list, one can see the action-dialogue coordination, like in the table below. How those two elements interact can add to the video&rsquo;s cohesiveness. They can either cohere or clash. I think really effective youtubers learn each other frequently this way &#x2013; we have instinct for what&rsquo;s good, then getting down to bare bones as to why and how the creator achieved that.
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
     
