@@ -22,7 +22,7 @@ Just create. Good ideas are simple and self-propel.
 
 ### Step 4: Editing it all together with Effective Software
 
--   **Video Software on Linux** Unfortunately there is no good video editing software for linux. The best bet here seems to be Davinci Resolve. The linux version of this was lacking capability to do basic functions like adding a voiceover track. Such a missing basic functionality means this is not a good option.
+-   **Video Software on Linux** Unfortunately there is no good video editing software for linux. The best bet here seems to be [Davinci Resolve for linux](https://www.blackmagicdesign.com/products/davinciresolve). This software can be installed on kde/ubuntu with a open source installer &#x2013; since Davinci provides for (I think) redhat linux OS only (link). However The linux version of this was lacking capability to do basic functions like adding a voiceover track (see [this forum](https://forum.blackmagicdesign.com/viewtopic.php?f=32&t=92281)). Such a missing basic functionality means this is not a good option.
     
     Besides this, no other linux video editing software stands out as a possibility.
     
