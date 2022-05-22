@@ -5,9 +5,9 @@
 
 ### Step 1: (Very) Minimalistic Equiptment Requirements
 
--   lighting: softbox
--   microphone: lav mic etc
--   backdrop
+-   Lighting: softbox
+-   Microphone: lav mic etc
+-   Backdrop with correct lighting. This should add mood and set the video&rsquo;s tone
 
 
 ### Step 2: Writing a script: Essential Parts and Content

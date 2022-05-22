@@ -1,9 +1,9 @@
 #+options: toc:nil
 * Approach to making Compelling videos
 *** Step 1: (Very) Minimalistic Equiptment Requirements
-- lighting: softbox
-- microphone: lav mic etc
-- backdrop
+- Lighting: softbox
+- Microphone: lav mic etc
+- Backdrop with correct lighting. This should add mood and set the video's tone
 *** Step 2: Writing a script: Essential Parts and Content
 *** Step 3: Approach: Letting go of perfection
 Just create. Good ideas are simple and self-propel.
