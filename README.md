@@ -13,11 +13,16 @@
 ## Writing a script: Essential Parts and Content
 
 
+## Approach: Letting go of perfection
+
+Just create. Good ideas are simple and self-propel.
+
+
 ## Software
 
 
-## Idea to build Hackintosh so mac software can be used &#x2014; or just use windows?
+### Idea to build Hackintosh so mac software can be used &#x2014; or just use windows?
 
 
-## find out of video card is compatable
+### find out of video card is compatable
 
