@@ -9,7 +9,7 @@
 *** Step 3: Approach and Mindset -- Letting go of perfection
 Just create. Good ideas are simple and self-propel.
 *** Step 4: Editing it all together with Effective Software
- + *Video Software on Linux* Unfortunately there is no good video editing software for linux. The best bet here seems to be [[https://www.blackmagicdesign.com/products/davinciresolve][Davinci Resolve for linux]]. This software can be installed on kde/ubuntu with a open source installer -- since Davinci provides for (I think) redhat linux OS only (link). However The linux version of this was lacking capability to do basic functions like adding a voiceover track (see [[https://forum.blackmagicdesign.com/viewtopic.php?f=32&t=92281][this forum]]). Such a missing basic functionality means this is not a good option, as Resolve's linux build does not seem to be up to par to the mac's, and no other linux video editing software stands out as a possibility. Hence, for video editing, mac still seems to be the best bet.
+ + *Video Software on Linux* Unfortunately there is no good video editing software for linux. The best bet here seems to be [[https://www.blackmagicdesign.com/products/davinciresolve][Davinci Resolve for linux]]. This software can be installed on kde/ubuntu with a open source installer  [[https://www.danieltufvesson.com/makeresolvedeb][with this link]] -- since Davinci provides for (I think) redhat linux OS only (link). However The linux version of this was lacking capability to do basic functions like adding a voiceover track (see [[https://forum.blackmagicdesign.com/viewtopic.php?f=32&t=92281][this forum]]). Such a missing basic functionality means this is not a good option, as Resolve's linux build does not seem to be up to par to the mac's, and no other linux video editing software stands out as a possibility. Hence, for video editing, mac still seems to be the best bet.
 
    + *Hackintosh Idea.* Buying a beefy mac with video editing specs is prohibitivly expensive, so I would like to explore, is possible to install the mac OS onto certain computers? eg [[https://www.reddit.com/r/hackintosh/comments/f2t7wb/catalina_on_my_dell_precision_7820_with_opencore/][OS X Cataline on this Dell]]
 
@@ -20,6 +20,7 @@ Just create. Good ideas are simple and self-propel.
 
   I think really effective youtubers learn each other frequently this way -- we have instinct for what's good, then getting down to bare bones as to why and how the creator achieved that.
 
+  + Something like this:
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
    | Action                                                         | Dialogue                                                                          |
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
