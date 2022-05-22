@@ -23,13 +23,9 @@ Just create. Good ideas are simple and self-propel.
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
    | Action                                                         | Dialogue                                                                          |
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
-   | Fade in screen recording from Black                            | Hello and welcome. Today we will be covering                                      |
-   |                                                                | some useful skill in emacs-calc Mode                                              |
+   | Fade in screen recording from Black                            | Hello and welcome. Today we will be covering some useful skill in emacs-calc Mode |
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
-   | Show a title slide with tutorial agenda items in a bullet list | In this Video we will be showing basics of reverse polish calculator notation     |
-   |                                                                | which is tricky at first  , cover basic ways to access calc's                     |
-   |                                                                | most useful functions, graph a function, and last show how to integrate emacscalc |
-   |                                                                | with other area of emacs to increase workflow, such as with org-mode.             |
+   | Show a title slide with tutorial agenda items in a bullet list | In this Video we will be showing basics of reverse polish calculator notation  which is tricky at first  , cover basic ways to access calc's most useful functions, graph a function, and last show how to integrate emacs-calc with other area of emacs to increase workflow, such as with org-mode.  |
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|
    | Fade talking head                                              | But thats not all !                                                               |
    |----------------------------------------------------------------+-----------------------------------------------------------------------------------|

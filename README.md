@@ -51,38 +51,14 @@ Just create. Good ideas are simple and self-propel.
     <tbody>
     <tr>
     <td class="org-left">Fade in screen recording from Black</td>
-    <td class="org-left">Hello and welcome. Today we will be covering</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">some useful skill in emacs-calc Mode</td>
+    <td class="org-left">Hello and welcome. Today we will be covering some useful skill in emacs-calc Mode</td>
     </tr>
     </tbody>
     
     <tbody>
     <tr>
     <td class="org-left">Show a title slide with tutorial agenda items in a bullet list</td>
-    <td class="org-left">In this Video we will be showing basics of reverse polish calculator notation</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">which is tricky at first  , cover basic ways to access calc&rsquo;s</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">most useful functions, graph a function, and last show how to integrate emacscalc</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">with other area of emacs to increase workflow, such as with org-mode.</td>
+    <td class="org-left">In this Video we will be showing basics of reverse polish calculator notation  which is tricky at first  , cover basic ways to access calc&rsquo;s most useful functions, graph a function, and last show how to integrate emacs-calc with other area of emacs to increase workflow, such as with org-mode.</td>
     </tr>
     </tbody>
     
